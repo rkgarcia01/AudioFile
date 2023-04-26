@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "247915932784",
+    "project_id": "audiofile-67453",
+    "storage_bucket": "audiofile-67453.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247915932784:android:70c3fd710eb9d79e0958b5",
+        "android_client_info": {
+          "package_name": "com.example.audiofileproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247915932784-4lqpak3l8co0ep5ucua254ankv0618fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGvj5Q4dYKj1NBuBe4O2X8iQ4aLkeWbc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247915932784-4lqpak3l8co0ep5ucua254ankv0618fv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
